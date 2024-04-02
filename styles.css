@@ -1,0 +1,36 @@
+body{
+    background-color: #CCCCCC;
+}
+
+a{  
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    text-align: center;
+    width: 90%;
+}
+
+h1{
+    color: black;
+    font-size: 44px;
+    text-align: center;
+    width: 90%;
+    
+}
+
+
+.links{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    width: 90%;
+    background-color: teal;
+    border-radius: 15px;
+}
